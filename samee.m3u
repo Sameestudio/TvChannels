@@ -1,0 +1,132 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="92newshd.tv",92 News HD (720p)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="arydigital.tv",ARY Digital (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://arydigital.tv/
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/84H/chunks.m3u8
+#EXTINF:-1 tvg-id="arymusik.tv",ARY Musik (1080p)
+#EXTVLCOPT:http-referrer=https://arydigital.tv/
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 tvg-id="greenentertainment.tv",Green Entertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-131H/chunks.m3u8
+#EXTINF:-1 tvg-id="hum.tv",Hum TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/82H/chunks.m3u8
+#EXTINF:-1 tvg-id="aljazeera.com",Aljazeera
+https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
+#EXTINF:-1 tvg-id="voanews.com",Voice of America
+https://tapmadlive.akamaized.net/tapmadold/voa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="makkahlive.net",Live Makkah
+https://tapmadlive.akamaized.net/tapmadold/makkah.smil/chunklist_w676558392_b1248000_slEng.m3u8
+#EXTINF:-1 tvg-id="shermaroome.com",Bollywood Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/d8092066-30d7-4579-a793-880dc422337b/0.m3u8
+#EXTINF:-1 tvg-id="colorstv.com",Colors HD
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Colors-HD-abr/live/Colors-HD_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="aurlife.tv",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="sindhtv.tv",Sindh TV
+https://cdn02khi.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/136-1H/chunks.m3u8
+#EXTINF:-1 tvg-id="discoverpakistan.tv",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="dunyanews.tv",Dunya News (INT Feed) (720p) [Not 24/7]
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w577349338_b950272.m3u8
+#EXTINF:-1 tvg-id="expressentertainment.tv",Express Entertainment (1080p)
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="mehrantv.tv",Mehran TV
+https://tapmadlive.akamaized.net/tapmadold/mehran.smil/chunklist_w2103722727_b748000_slEng.m3u8
+#EXTINF:-1 tvg-id="bolentertainment.com",BOL Entertainment
+https://tapmadlive.akamaized.net/tapmadold/bolent.smil/chunklist_w1267817351_b1248000_slENG.m3u8
+#EXTINF:-1 tvg-id="dhartitvnetwork.com",Dharti TV
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/chunklist_w1009981439_b748000_slEng.m3u8
+#EXTINF:-1 tvg-id="cartoonnetworkasia.com",Cartoon Network
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/live/87H/chunks.m3u8
+#EXTINF:-1 tvg-id="harpalgeo.tv",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="geo.tv",Geo News (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="joomusic.info",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KTN.pk",KTN
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk",Lahore News (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="sindhtv.tv",Sindh TV 
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/136-1H/chunks.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk",Madani Channel Urdu (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 tvg-id="onegolf.in",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="tensportstv.com",Ten Sports
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Tensports-abr/live/blackout/chunks.m3u8
+#EXTINF:-1 tvg-id="ZindagiTV.pk",Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="radioindia.in",VividBharti Radio
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 ,SONY TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 ,ZeeCinema HD
+https://www.bdtubelive.xyz/new.m3u8?id=151
+#EXTINF:-1 ,B4U Movies
+https://www.bdtubelive.xyz/new.m3u8?id=141
+#EXTINF:-1 ,STAR Plus HD
+http://103.120.172.74:4300
+#EXTINF:-1 ,StarBharat HD
+http://103.120.172.74:5200
+#EXTINF:-1 ,StarBharat HD
+https://www.bdtubelive.xyz/new.m3u8?id=119
+#EXTINF:-1 ,Utsav Plus HD
+https://www.bdtubelive.xyz/new.m3u8?id=105
+#EXTINF:-1 ,Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 ,Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 ,Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 ,Sony kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sony SAB HD
+https://www.bdtubelive.xyz/new.m3u8?id=115
+#EXTINF:-1 ,B4U MOVIES
+http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 ,AXN
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 ,STAR
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 ,Star Movies select HD
+http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 ,MoviesNowHD
+http://195.26.87.217/live.ts?channelId=162&uid=7438&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 ,TravelXP hindi HD
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg",Shema Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Information",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Information",Food Food
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",Cartoon Network
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 ,HBO
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MBC2
+https://07-24.mizhls.ru/fls/cdn/dwqpWxVkFR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MBC Bollywood
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+
+
+
+
+
+
+
