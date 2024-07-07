@@ -47,10 +47,14 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTN.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg",KTN
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
+#EXTINF:-1 tvg-id="KTN.pk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9duMkA84BgKYaYUhsinJA7cK2AW3mC454aQ&s",KTN News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/151M/chunks.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/2560px-Lahore_News_Logo_%28For_Tv_Screen%29.png",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="sindhtv.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg",Sindh TV 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/136-1H/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Sindh_TV_News_Logo.png",Sindh TV News
+https://cdn5.mjunoon.tv:8087/web/SindhNews-136-2/live/136-2M/chunks.m3u8?nimblesessionid=384651335&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjQgMTE6NTk6MjAgQU0maGFzaF92YWx1ZT01cXdBaGpVRXlrS1Bqc3pPbGhyZDBnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-logo="https://www.logolynx.com/images/logolynx/c8/c8a9dbfd767f4d215a43b43ff0cc6bb8.jpeg",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-id="onegolf.in" tvg-logo="https://media.licdn.com/dms/image/C560BAQF1ecBczynpFQ/company-logo_200_200/0/1630617596849/onegolf_logo?e=2147483647&v=beta&t=_W6MRYDTL9ENtd8xCrAfXSD2H4Qop-LUAf2gV6NsxUc",One Golf (720p)
@@ -93,6 +97,8 @@ https://www.bdtubelive.xyz/new.m3u8?id=115
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 ,AXN
 http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index_4.m3u8
 #EXTINF:-1 ,STAR
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png",Star Movies HD
@@ -123,9 +129,6 @@ https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 https://07-24.mizhls.ru/fls/cdn/dwqpWxVkFR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",MBC Bollywood
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
-
-
-
 
 
 
