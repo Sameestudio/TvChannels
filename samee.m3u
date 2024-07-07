@@ -11,6 +11,10 @@ https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-131H/chunks.m3u8
 #EXTINF:-1 tvg-id="hum.tv",Hum TV
 https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/82H/chunks.m3u8
+#EXTINF:-1 tvg-id="masala.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",Masala TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118H/chunks.m3u8
+#EXTINF:-1 tvg-id="masala.tv" tvg-logo="https://e7.pngegg.com/pngimages/139/248/png-clipart-logo-tvone-pakistan-television-tv-one-brand-dave-tv-logo-television-text.png",One TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/TVOne-abr/live/129L/chunks.m3u8
 #EXTINF:-1 tvg-id="aljazeera.com",Aljazeera
 https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:-1 tvg-id="voanews.com",Voice of America
