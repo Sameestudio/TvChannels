@@ -80,12 +80,16 @@ https://www.bdtubelive.xyz/new.m3u8?id=151
 https://www.bdtubelive.xyz/new.m3u8?id=141
 #EXTINF:-1 ,STAR Plus HD
 http://103.120.172.74:4300
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",STAR Gold Select
+https://iptvhd.live/tvs/n/master/play.m3u8?id=784
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Bharat_International.png/revision/latest?cb=20240318193310",StarBharat HD
 http://103.120.172.74:5200
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Bharat_International.png/revision/latest?cb=20240318193310",StarBharat HD
 https://www.bdtubelive.xyz/new.m3u8?id=119
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest?cb=20210520175932",Utsav Plus HD
 https://www.bdtubelive.xyz/new.m3u8?id=105
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Sony_Max_2_new.png/160px-Sony_Max_2_new.png",SET MAX 2
+https://babybosstv.com/tvs/n/master/play.m3u8?id=2024
 #EXTINF:-1 ,Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 ,Bollywood HD
@@ -105,7 +109,7 @@ https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index
 #EXTINF:-1 ,STAR
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png",Star Movies HD
-http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
+https://babybosstv.com/play/tv/mac/play.m3u8?id=155727
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png",Star Movies select HD
 http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png",MoviesNowHD
@@ -136,3 +140,32 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
 #EXTINF:-1 group-title="MBC Action" tvg-logo="https://www.aflam4you.net/uploads/thumbs/500-1.jpg",MBC Action
 https://07-24.mizhls.ru/fls/cdn/yvZ0SshAu4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
+https://babybosstv.com/tvs/n/master/play.m3u8?id=1969
+
+#EXTINF:-1 group-title="SONY PAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg",SONY PAL
+https://babybosstv.com/tvs/n/master/play.m3u8?id=812
+
+#EXTINF:-1 group-title="SONY SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",SONY SAB
+https://babybosstv.com/tvs/n/master/play.m3u8?id=2323
+
+#EXTINF:-1 group-title="STAR GOLD" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",STAR GOLD
+https://babybosstv.com/tvs/n/master/play.m3u8?id=785
+#EXTINF:-1 group-title="SONY PIX" tvg-logo="https://seeklogo.com/images/S/sony-pix-logo-34A5FEEFA4-seeklogo.com.png",SONY PIX
+https://iptvhd.live/tvs/n/master/play.m3u8?id=2101
+
+#EXTINF:-1 group-title="PTV Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV Sports
+https://crichdlive.com/embed/play.m3u8?key=CRICHDLIVE&c=ptvpk
+
+#EXTINF:-1 group-title="Animal Planet" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/AP_logo_MAIN_green.png",Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_19.m3u8
+
+#EXTINF:-1 group-title="9XM" tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/7f869708-149c-4f0c-9aef-9b05a32eb9b7/1.m3u8
+
+#EXTINF:-1 group-title="Drone TV" tvg-logo="https://www.shutterstock.com/image-vector/vector-illustration-drone-ban-on-600nw-2381428419.jpg",Drone TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/df7a4d9a-2366-4edb-8d92-8aeaa01bf7f1/1.m3u8
+
+#EXTINF:-1 group-title="Bollywood Prime" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/22a505fc-d8d8-4edd-ba06-1b9fedd2dd31/3.m3u8
