@@ -11,7 +11,7 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-
 #EXTINF:-1 tvg-id="hum.tv",Hum TV
 https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/82H/chunks.m3u8
 #EXTINF:-1 tvg-id="masala.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",Masala TV
-https://cdn02khi.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118H/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118H/chunks.m3u8
 #EXTINF:-1 tvg-id="masala.tv" tvg-logo="https://e7.pngegg.com/pngimages/139/248/png-clipart-logo-tvone-pakistan-television-tv-one-brand-dave-tv-logo-television-text.png",One TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/TVOne-abr/live/129L/chunks.m3u8
 #EXTINF:-1 tvg-id="aljazeera.com",Aljazeera
@@ -49,15 +49,17 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93M/chunks.m
 #EXTINF:-1 tvg-id="joomusic.info" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE",JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTN.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg",KTN
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105M/chunks.m3u8
 #EXTINF:-1 tvg-id="KTN.pk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9duMkA84BgKYaYUhsinJA7cK2AW3mC454aQ&s",KTN News
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/151M/chunks.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
+#EXTINF:-1 tvg-id="KTN.pk" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQF62mzammmn1Q/company-logo_200_200/0/1653914530879/timemediagroup_logo?e=2147483647&v=beta&t=BQ-3SH69kZYQrNF55OYbT1nDUu5SCP16IXfhsXGP-xw",Time News
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-109H/chunks.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/2560px-Lahore_News_Logo_%28For_Tv_Screen%29.png",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="sindhtv.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg",Sindh TV 
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/136-1L/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-104H/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Sindh_TV_News_Logo.png",Sindh TV News
-https://cdn05khi.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80L/chunks.m3u8?nimblesessionid=136569214&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI0IDExOjMzOjM3IEFNJmhhc2hfdmFsdWU9VmRXS21MY1dBRDUyU1BONzBSc0Njdz09JnZhbGlkbWludXRlcz0x
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/136-2L/chunks.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-logo="https://www.logolynx.com/images/logolynx/c8/c8a9dbfd767f4d215a43b43ff0cc6bb8.jpeg",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-id="onegolf.in" tvg-logo="https://media.licdn.com/dms/image/C560BAQF1ecBczynpFQ/company-logo_200_200/0/1630617596849/onegolf_logo?e=2147483647&v=beta&t=_W6MRYDTL9ENtd8xCrAfXSD2H4Qop-LUAf2gV6NsxUc",One Golf (720p)
