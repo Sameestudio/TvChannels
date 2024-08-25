@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10.0,
 https://cdn03isb.tamashaweb.com:8087/hls/105989/MDUjHf7Zk6J/smil:mpfour.smil/360p.mp4-n_1_0_0.ts?nimblesessionid=105953437&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDEwOjQzOjUwIEFNJmhhc2hfdmFsdWU9Z3R4aHp1TkVuWWUxdW1uNnhNYm5LQT09JnZhbGlkbWludXRlcz0x
 #EXTINF:10.0,
@@ -9,3 +9,7 @@ https://cdn03isb.tamashaweb.com:8087/hls/105989/MDUjHf7Zk6J/smil:mpfour.smil/360
 https://cdn03isb.tamashaweb.com:8087/hls/105989/MDUjHf7Zk6J/smil:mpfour.smil/360p.mp4-n_3_0_0.ts?nimblesessionid=105953437&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDEwOjQzOjUwIEFNJmhhc2hfdmFsdWU9Z3R4aHp1TkVuWWUxdW1uNnhNYm5LQT09JnZhbGlkbWludXRlcz0x
 #EXTINF:10.0,
 https://cdn03isb.tamashaweb.com:8087/hls/105989/MDUjHf7Zk6J/smil:mpfour.smil/360p.mp4-n_4_0_0.ts?nimblesessionid=105953437&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDEwOjQzOjUwIEFNJmhhc2hfdmFsdWU9Z3R4aHp1TkVuWWUxdW1uNnhNYm5LQT09JnZhbGlkbWludXRlcz0x
+...
+#EXTINF:10.0,
+https://cdn03isb.tamashaweb.com:8087/hls/105989/MDUjHf7Zk6J/smil:mpfour.smil/360p.mp4-n_1100_0_0.ts?nimblesessionid=105953437&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDEwOjQzOjUwIEFNJmhhc2hfdmFsdWU9Z3R4aHp1TkVuWWUxdW1uNnhNYm5LQT09JnZhbGlkbWludXRlcz0x
+#EXT-X-ENDLIST
